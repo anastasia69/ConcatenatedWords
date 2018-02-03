@@ -2,7 +2,7 @@ Concatenated Words
 
 The challenge
 
-We have provided a file called “wordsforproblem.txt” which contains a sorted list of
+We have provided a file called “words.txt” which contains a sorted list of
 approximately 173,000 words. The words are listed one word per line, do not contain spaces,
 and are all lowercase.
 Your task is to write a program that reads the file and provides the following:
