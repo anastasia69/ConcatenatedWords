@@ -1,4 +1,4 @@
-#Concatenated Words
+Concatenated Words
 
 We have provided a file called “words.txt” which contains a sorted list of
 approximately 173,000 words. The words are listed one word per line, do not contain spaces,
